@@ -1,13 +1,3 @@
-# CACH 1
-def nn1(n):
-    term = 0
-    total = 0
-
-    for i in range(1, 5):
-        term = term * 10 + n
-        total += term
-
-    print(total)
 
 # CACH 2
 def nn2(n):
