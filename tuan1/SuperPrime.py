@@ -18,3 +18,4 @@ def is_super_prime(n: int):
 
 n = int(input())
 print(is_super_prime(n))
+
